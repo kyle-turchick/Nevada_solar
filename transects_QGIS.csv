@@ -107,9 +107,9 @@ id,transect,soil,oversample,notes,2022_treat,treatment,2023_treat,subarea
 ,,,yes,,,,,
 ,,,yes,,,,,
 "1",t1,"185",no,originally named: d-03,before,solar facility,,C
-"72",t72,"203",no,originally AIM random sample,during,solar facility,,B
-"15",t15,"203",no,originally AIM random sample,during,solar facility,,A
-"16",t16,"203",no,originally AIM random sample,during,solar facility,,A
+"72",t72,"203",no,originally AIM random sample,during,solar facility,after,B
+"15",t15,"203",no,originally AIM random sample,during,solar facility,after,A
+"16",t16,"203",no,originally AIM random sample,during,solar facility,after,A
 "73",t73,"203",no,,,solar facility,after,B
 "74",t74,"203",no,,,solar facility,after,B
 "75",t75,"203",no,,,solar facility,after,B
